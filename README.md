@@ -26,3 +26,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+![resim2](https://r.resimlink.com/UQ3YP.png)
